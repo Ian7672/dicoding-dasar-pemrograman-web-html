@@ -69,6 +69,9 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://github.com/Ian7672/dicodi
 ## 👨‍💻 Developer  
 **Ian7672**  
 - GitHub: [github.com/Ian7672](https://github.com/Ian7672)  
+---
+
+🔗 **Link Kelas Dicoding**: [Dasar Pemrograman Web](https://www.dicoding.com/academies/123)  
 
 ---  
 © 2025 | dicoding-dasar-pemrograman-web-html | MIT License  
