@@ -59,7 +59,7 @@ Proyek ini memenuhi semua kriteria submission untuk kelas "Dasar Pemrograman Web
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Lisensi MIT](https://github.com/Ian7672/dicoding-dasar-pemrograman-web-html/blob/main/LICENSE).
+Proyek ini dilisensikan di bawah [Lisensi MIT](https://github.com/Ian7672/dicoding-dasar-pemrograman-web-html?tab=MIT-1-ov-file).
 
 ---
 
