@@ -47,12 +47,6 @@ index.html         - File utama HTML
 3. Gunakan menu navigasi untuk berpindah antar bagian
 4. Klik tombol "Baca" untuk mengaktifkan mode baca yang lebih nyaman
 
-## Screenshot
-
-![Tampilan Utama](assets/image/screenshot1.png)
-![Mode Baca](assets/image/screenshot2.png)
-![Tampilan Mobile](assets/image/screenshot3.png)
-
 ## Kriteria Submission
 
 Proyek ini memenuhi semua kriteria submission untuk kelas "Dasar Pemrograman Web" Dicoding:
@@ -70,7 +64,7 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://github.com/Ian7672/dicodi
 ---
 
 ## 📲 Live Demo  
-[Link Demo App]()
+[Link Demo App](https://github.com/user-attachments/assets/111303eb-e1c2-44c1-b639-fc45ad6891d7)
 
 ## 👨‍💻 Developer  
 **Ian7672**  
